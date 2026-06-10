@@ -14,8 +14,8 @@ I work on multimodal learning. At Meta, on Instagram Ads Ranking, I built multim
 pipelines that generate ranking features, and post-trained open models (SFT, teacher-student
 distillation) against custom per-field eval harnesses to push extraction quality.
 
-What pulls me most is the post-training and evaluation side of frontier multimodal systems:
-getting a model to do one specific job really well, and being able to prove it does.
+The part I enjoy most is the post-training and evals loop: teach a model one specific job,
+measure it honestly, repeat.
 
 Before Meta, I spent several years across the ML stack: Senior ML Scientist at ZEFR building
 multimodal content-understanding for brand safety (CLIP/ViT fine-tuning, billion-scale
