@@ -2,7 +2,7 @@
 <p align="center"><b>Senior Machine Learning Engineer · Multimodal, RecSys, Computer Vision</b></p>
 
 <p align="center">
-  <a href="https://shubh.io">shubh.io</a> ·
+  <a href="https://shubham.gg">shubham.gg</a> ·
   <a href="https://linkedin.com/in/shubhamgoel27">LinkedIn</a> ·
   <a href="https://twitter.com/shubhamg_">X</a> ·
   <a href="mailto:shubhamgoel27@gmail.com">Email</a>
