@@ -10,9 +10,10 @@
 
 ---
 
-I work on multimodal learning. At Meta, on Instagram Ads Ranking, I built multimodal LLM
-pipelines that generate ranking features, and post-trained open models (SFT, teacher-student
-distillation) against custom per-field eval harnesses to push extraction quality.
+I build machine learning systems where vision, language, and ranking meet. At Meta, on
+Instagram Ads Ranking, I built multimodal LLM pipelines that generate ranking features, and
+post-trained open models (SFT, teacher-student distillation) against custom per-field eval
+harnesses to push extraction quality.
 
 The part I enjoy most is the post-training and evals loop: teach a model one specific job,
 measure it honestly, repeat.
