@@ -33,11 +33,11 @@ MS in Statistics from UIUC in between.
   concept visualizations, and an XP system.
 - **[arsenal-style-transfer](https://github.com/shubhamgoel27/arsenal-style-transfer)**:
   turns Arsenal FC highlights into animated styles (Spider-Verse, Ghibli, Pokémon, and more).
-- **AURA FC** *(soccer-co-commentator)*: a real-time pipeline that turns soccer footage into
+- **[AURA FC](https://github.com/shubhamgoel27/soccer-co-commentator)**: a real-time pipeline that turns soccer footage into
   live AI commentary. YOLOv8 detection and tracking feed an event layer, which drives
-  generated play-by-play overlays. *(repo coming soon)*
-- **visionbench**: a set of from-scratch ML coding challenges for vision models, VLMs, and
-  VLAs, the kind of problems I like to keep sharp on. *(repo coming soon)*
+  generated play-by-play overlays.
+- **[visionbench](https://github.com/shubhamgoel27/visionbench)**: a set of from-scratch ML coding challenges for vision models, VLMs, and
+  VLAs, the kind of problems I like to keep sharp on.
 
 ### Interested in
 
